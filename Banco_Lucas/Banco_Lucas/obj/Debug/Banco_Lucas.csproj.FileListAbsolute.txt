@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Banco_Lucas\Banco_Lucas\bin\Debug\Banco_Lucas.exe.config
+C:\Users\User\source\repos\Banco_Lucas\Banco_Lucas\bin\Debug\Banco_Lucas.exe
+C:\Users\User\source\repos\Banco_Lucas\Banco_Lucas\bin\Debug\Banco_Lucas.pdb
+C:\Users\User\source\repos\Banco_Lucas\Banco_Lucas\obj\Debug\Banco_Lucas.Form1.resources
+C:\Users\User\source\repos\Banco_Lucas\Banco_Lucas\obj\Debug\Banco_Lucas.Properties.Resources.resources
+C:\Users\User\source\repos\Banco_Lucas\Banco_Lucas\obj\Debug\Banco_Lucas.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Banco_Lucas\Banco_Lucas\obj\Debug\Banco_Lucas.exe
+C:\Users\User\source\repos\Banco_Lucas\Banco_Lucas\obj\Debug\Banco_Lucas.pdb
+C:\Users\User\source\repos\Banco_Lucas\Banco_Lucas\obj\Debug\Banco_Lucas.FormCadastroConta.resources
+C:\Users\User\source\repos\Banco_Lucas\Banco_Lucas\obj\Debug\Banco_Lucas.csprojAssemblyReference.cache
